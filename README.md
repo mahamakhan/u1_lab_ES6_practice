@@ -2,9 +2,6 @@
 
 ![Fear](https://www.cloudsavvyit.com/p/uploads/2019/07/9608c9ff.png)
 
-## Homework Overview
-We'll get some practice in with the new tools we've picked up with ES6!
-
 ## Getting Started
 - Fork and Clone
 - Put your answers to the questions in this readme in the `solutions.js` file
